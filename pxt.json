@@ -1,0 +1,21 @@
+{
+    "name": "Cookie-clicker-extension.",
+    "version": "0.1.0",
+    "description": "It's very specific i think",
+    "license": "Apache",
+    "dependencies": {
+        "core": "*",
+    },
+    "files": [
+        "README.md",
+        "main.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "mindstorms"
+    ],
+    "preferredEditor": "blocksprj"
+}
