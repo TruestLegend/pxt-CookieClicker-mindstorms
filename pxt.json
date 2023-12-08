@@ -1,21 +1,14 @@
 {
-    "name": "Cookie-clicker-extension.",
-    "version": "0.1.0",
-    "description": "It's very specific i think",
-    "license": "Apache",
+    "name": "Cookie clicker 0.1",
     "dependencies": {
-        "core": "*",
+        "ev3": "*"
     },
+    "description": "It's the extension for this game",
     "files": [
-        "README.md",
-        "main.ts"
+        "main.ts",
+        "sounds.jres"
     ],
     "testFiles": [
         "test.ts"
-    ],
-    "public": true,
-    "supportedTargets": [
-        "mindstorms"
-    ],
-    "preferredEditor": "blocksprj"
+    ]
 }
